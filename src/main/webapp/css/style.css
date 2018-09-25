@@ -1,0 +1,42 @@
+@import url(https://fonts.googleapis.com/css?family=Source+Serif+Pro:400,600,700);
+/**, html {*/
+  /*background-color: #036564 !important;*/
+  /*color: #031634 !important;*/
+  /*font-family: "Source Serif Pro", serif;*/
+/*}*/
+
+h1 {
+  font-weight: 400;
+  color: #e8ddcb !important;
+}
+
+/*button {*/
+  /*border: 10px solid #036564 !important;*/
+  /*background-color: #e8ddcb !important;*/
+  /*margin: 0px 0 0 0;*/
+  /*transition-property: color, background-color;*/
+  /*transition-duration: 0.2s;*/
+/*}*/
+
+/*button:active {*/
+  /*background-color: #031634 !important;*/
+  /*color: #e8ddcb !important;*/
+/*}*/
+
+.calcs {
+  height: 100%;
+  border: 10px solid #036564;
+  color: #e8ddcb !important;
+  border-bottom: 1px solid #e8ddcb !important;
+  font-size: 2em;
+  padding: 0 10px 0 10px;
+  margin-bottom: 5px;
+}
+
+.row {
+  margin: 5px;
+  /*order: 1px solid gray; */
+}
+.btn-wrapper{
+  padding: 0 2px 0 2px;
+}
